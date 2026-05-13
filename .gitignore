@@ -1,0 +1,11 @@
+# Игнорировать папку UrbanSound8K
+UrbanSound8K/
+
+# Игнорировать модели
+best_cnn_model.pth
+best_spinn_model.pth
+
+# Игнорировать другие файлы
+homework-practice-04-dl-bidjiev.ipynb
+hw3_dota.zip
+hw3_dota/
